@@ -1,7 +1,7 @@
 {
-  "version": "1.3.4",
-  "download_url": "https://github.com/Amaury-codes/Scantinel/releases/download/v1.3.4/Scantinel.exe",
+  "version": "1.4.0",
+  "download_url": "https://github.com/Amaury-codes/Scantinel/releases/download/v1.4.0/Scantinel.exe",
   "release_page": "https://github.com/Amaury-codes/Scantinel/releases/latest",
-  "release_notes": "Modals no longer close on outside click; they now close only via Save, Cancel or the close button.",
-  "release_date": "2026-09-13"
+  "release_notes": "Dates are now shown as dd/mm/yyyy everywhere with a new calendar picker; Save and Delete buttons show a loading state and saving is much faster over the API.",
+  "release_date": "2026-10-15"
 }
