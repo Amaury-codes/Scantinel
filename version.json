@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/Amaury-codes/Scantinel/releases/download/v1.4.0/Scantinel.exe",
+  "version": "1.4.1",
+  "download_url": "https://github.com/Amaury-codes/Scantinel/releases/download/v1.4.1/Scantinel.exe",
   "release_page": "https://github.com/Amaury-codes/Scantinel/releases/latest",
-  "release_notes": "Dates are now shown as dd/mm/yyyy everywhere with a new calendar picker; Save and Delete buttons show a loading state and saving is much faster over the API.",
-  "release_date": "2026-10-15"
+  "release_notes": "Clearer Dashboard: project context under the title, uniform stat cards, invoicing progress with amount left to invoice, optional Today bar; outline menu icons; the app opens maximized on Windows.",
+  "release_date": "2026-10-17"
 }
