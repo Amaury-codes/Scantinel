@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "download_url": "https://github.com/Amaury-codes/Scantinel/releases/download/v1.4.1/Scantinel.exe",
+  "version": "1.5.0",
+  "download_url": "https://github.com/Amaury-codes/Scantinel/releases/download/v1.5.0/Scantinel.exe",
   "release_page": "https://github.com/Amaury-codes/Scantinel/releases/latest",
-  "release_notes": "Clearer Dashboard: project context under the title, uniform stat cards, invoicing progress with amount left to invoice, optional Today bar; outline menu icons; the app opens maximized on Windows.",
-  "release_date": "2026-10-17"
+  "release_notes": "New Global Overview for administrators: all countries and projects at a glance (N vs N-1, charts, filters, EUR/USD), opened at startup with an Admin key; EUR/USD conversion on Dashboard amounts; fixed monthly figures in Financials and Reports.",
+  "release_date": "2026-10-29"
 }
